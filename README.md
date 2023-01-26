@@ -20,9 +20,6 @@ Hi, I'm a Front End Developer from the Midwest! I love making random programs an
 
   
 </div>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleMT03&layout=compact"  width = "47%"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=KyleMT03"  width = "47%"></img>
 
 <div align="center">
 
@@ -31,4 +28,8 @@ Hi, I'm a Front End Developer from the Midwest! I love making random programs an
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 </div>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleMT03&layout=compact"  width = "47%"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=KyleMT03"  width = "47%"></img>
+
 
